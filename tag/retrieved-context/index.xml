@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retrieved Context | James Kragel</title>
+    <link>https://jkragel.github.io/tag/retrieved-context/</link>
+      <atom:link href="https://jkragel.github.io/tag/retrieved-context/index.xml" rel="self" type="application/rss+xml" />
+    <description>Retrieved Context</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Retrieved Context</title>
+      <link>https://jkragel.github.io/tag/retrieved-context/</link>
+    </image>
+    
+    <item>
+      <title>Retrieved Context Models</title>
+      <link>https://jkragel.github.io/project/retrieved-context/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/retrieved-context/</guid>
+      <description>&lt;p&gt;Episodic memory involves the recall of memories from a specific time and place. However, the neural processes involved in reconstructing past experience remains an open question. This line of research combines neuroimaging techniques (fMRI and iEEG) with computational models of memory to understand how the brain gives rise to observable expressions of memory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distinct cortical systems reinstate the content and context of episodic memories</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_krageldistinct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_krageldistinct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal context guides visual exploration during scene recognition</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_gazereinstatement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_gazereinstatement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural activity in the medial temporal lobe reveals the fidelity of mental time travel</title>
+      <link>https://jkragel.github.io/publication/2015-01-01_kragel2015neural/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2015-01-01_kragel2015neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural dynamics of task context in free recall</title>
+      <link>https://jkragel.github.io/publication/2012-01-01_polyn2012neural/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2012-01-01_polyn2012neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

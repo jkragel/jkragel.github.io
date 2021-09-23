@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paul Wanda | James Kragel</title>
+    <link>https://jkragel.github.io/author/paul-wanda/</link>
+      <atom:link href="https://jkragel.github.io/author/paul-wanda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paul Wanda</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Paul Wanda</title>
+      <link>https://jkragel.github.io/author/paul-wanda/</link>
+    </image>
+    
+    <item>
+      <title>Direct brain stimulation modulates encoding states and memory performance in humans</title>
+      <link>https://jkragel.github.io/publication/2017-01-01_ezzyat2017direct/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2017-01-01_ezzyat2017direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

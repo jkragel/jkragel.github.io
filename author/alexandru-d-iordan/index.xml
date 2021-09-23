@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandru D Iordan | James Kragel</title>
+    <link>https://jkragel.github.io/author/alexandru-d-iordan/</link>
+      <atom:link href="https://jkragel.github.io/author/alexandru-d-iordan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandru D Iordan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexandru D Iordan</title>
+      <link>https://jkragel.github.io/author/alexandru-d-iordan/</link>
+    </image>
+    
+    <item>
+      <title>Neural correlates of opposing effects of emotional distraction on working memory and episodic memory: an event-related FMRI investigation</title>
+      <link>https://jkragel.github.io/publication/2013-01-01_dolcos2013neural/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2013-01-01_dolcos2013neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

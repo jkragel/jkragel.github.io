@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean M Polyn | James Kragel</title>
+    <link>https://jkragel.github.io/author/sean-m-polyn/</link>
+      <atom:link href="https://jkragel.github.io/author/sean-m-polyn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sean M Polyn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sean M Polyn</title>
+      <link>https://jkragel.github.io/author/sean-m-polyn/</link>
+    </image>
+    
+    <item>
+      <title>Decoding episodic retrieval processes: Frontoparietal and medial temporal lobe contributions to free recall</title>
+      <link>https://jkragel.github.io/publication/2016-01-01_kragel2016decoding/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2016-01-01_kragel2016decoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional interactions between large-scale networks during memory search</title>
+      <link>https://jkragel.github.io/publication/2013-01-01_kragel2013functional/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2013-01-01_kragel2013functional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural activity in the medial temporal lobe reveals the fidelity of mental time travel</title>
+      <link>https://jkragel.github.io/publication/2015-01-01_kragel2015neural/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2015-01-01_kragel2015neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural dynamics of task context in free recall</title>
+      <link>https://jkragel.github.io/publication/2012-01-01_polyn2012neural/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2012-01-01_polyn2012neural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

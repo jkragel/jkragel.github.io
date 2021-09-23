@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brain Stimulation | James Kragel</title>
+    <link>https://jkragel.github.io/tag/brain-stimulation/</link>
+      <atom:link href="https://jkragel.github.io/tag/brain-stimulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brain Stimulation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Brain Stimulation</title>
+      <link>https://jkragel.github.io/tag/brain-stimulation/</link>
+    </image>
+    
+    <item>
+      <title>Modulation of Memory Circuits</title>
+      <link>https://jkragel.github.io/project/brain-stimulation/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/brain-stimulation/</guid>
+      <description>&lt;p&gt;This research project examines how brain stimulation can modulate memory function. Techniques span invasive and noninvasive approaches to affect cortical-hippocampal networks, which are essential for memory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhanced reinstatement of naturalistic event memories due to hippocampal-network-targeted stimulation</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_hebscher2021enhanced/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_hebscher2021enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medial temporal lobe functional connectivity predicts stimulation-induced theta power</title>
+      <link>https://jkragel.github.io/publication/2018-01-01_solomon2018medial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2018-01-01_solomon2018medial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct brain stimulation modulates encoding states and memory performance in humans</title>
+      <link>https://jkragel.github.io/publication/2017-01-01_ezzyat2017direct/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2017-01-01_ezzyat2017direct/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

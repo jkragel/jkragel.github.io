@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Exploration | James Kragel</title>
+    <link>https://jkragel.github.io/tag/visual-exploration/</link>
+      <atom:link href="https://jkragel.github.io/tag/visual-exploration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visual Exploration</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Visual Exploration</title>
+      <link>https://jkragel.github.io/tag/visual-exploration/</link>
+    </image>
+    
+    <item>
+      <title>Memory-guided Visual Exploration</title>
+      <link>https://jkragel.github.io/project/visual-exploration/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/visual-exploration/</guid>
+      <description>&lt;p&gt;In addition to supporting our ability to recall the past, memory shapes how we explore the environment and make decisions. My research in this area explores how the hippocampus, a brain structure known for its contributions to long-term memory, supports visual exploration. This work combines the high temporal resolution of intracranial EEG and eye tracking to understand how the hippocampus interacts with visual systems to dynamically support memory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid coordination of effective learning by the human hippocampus</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_kragelhipptheta/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_kragelhipptheta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal context guides visual exploration during scene recognition</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_gazereinstatement/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_gazereinstatement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hippocampal theta coordinates memory processing during visual exploration</title>
+      <link>https://jkragel.github.io/publication/2020-01-01_kragel2020hippocampal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2020-01-01_kragel2020hippocampal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

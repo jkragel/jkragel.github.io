@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | James Kragel</title>
+    <link>https://jkragel.github.io/project/</link>
+      <atom:link href="https://jkragel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://jkragel.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Memory-guided Visual Exploration</title>
+      <link>https://jkragel.github.io/project/visual-exploration/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/visual-exploration/</guid>
+      <description>&lt;p&gt;In addition to supporting our ability to recall the past, memory shapes how we explore the environment and make decisions. My research in this area explores how the hippocampus, a brain structure known for its contributions to long-term memory, supports visual exploration. This work combines the high temporal resolution of intracranial EEG and eye tracking to understand how the hippocampus interacts with visual systems to dynamically support memory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modulation of Memory Circuits</title>
+      <link>https://jkragel.github.io/project/brain-stimulation/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/brain-stimulation/</guid>
+      <description>&lt;p&gt;This research project examines how brain stimulation can modulate memory function. Techniques span invasive and noninvasive approaches to affect cortical-hippocampal networks, which are essential for memory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retrieved Context Models</title>
+      <link>https://jkragel.github.io/project/retrieved-context/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/project/retrieved-context/</guid>
+      <description>&lt;p&gt;Episodic memory involves the recall of memories from a specific time and place. However, the neural processes involved in reconstructing past experience remains an open question. This line of research combines neuroimaging techniques (fMRI and iEEG) with computational models of memory to understand how the brain gives rise to observable expressions of memory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

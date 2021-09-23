@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kareem A Zaghloul | James Kragel</title>
+    <link>https://jkragel.github.io/author/kareem-a-zaghloul/</link>
+      <atom:link href="https://jkragel.github.io/author/kareem-a-zaghloul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kareem A Zaghloul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Kareem A Zaghloul</title>
+      <link>https://jkragel.github.io/author/kareem-a-zaghloul/</link>
+    </image>
+    
+    <item>
+      <title>Distinct cortical systems reinstate the content and context of episodic memories</title>
+      <link>https://jkragel.github.io/publication/2021-01-01_krageldistinct/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2021-01-01_krageldistinct/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medial temporal lobe functional connectivity predicts stimulation-induced theta power</title>
+      <link>https://jkragel.github.io/publication/2018-01-01_solomon2018medial/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2018-01-01_solomon2018medial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

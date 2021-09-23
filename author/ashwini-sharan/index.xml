@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashwini Sharan | James Kragel</title>
+    <link>https://jkragel.github.io/author/ashwini-sharan/</link>
+      <atom:link href="https://jkragel.github.io/author/ashwini-sharan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ashwini Sharan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jkragel.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ashwini Sharan</title>
+      <link>https://jkragel.github.io/author/ashwini-sharan/</link>
+    </image>
+    
+    <item>
+      <title>Tonic Resting State Hubness Supports High Gamma Activity Defined Verbal Memory Encoding Network in Epilepsy</title>
+      <link>https://jkragel.github.io/publication/2020-01-01_chaitanya2020tonic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2020-01-01_chaitanya2020tonic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Widespread theta synchrony and high-frequency desynchronization underlies enhanced cognition</title>
+      <link>https://jkragel.github.io/publication/2017-01-01_solomon2017widespread/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2017-01-01_solomon2017widespread/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
