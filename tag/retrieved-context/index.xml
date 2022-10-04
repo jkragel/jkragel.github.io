@@ -5,12 +5,20 @@
     <link>https://jkragel.github.io/tag/retrieved-context/</link>
       <atom:link href="https://jkragel.github.io/tag/retrieved-context/index.xml" rel="self" type="application/rss+xml" />
     <description>Retrieved Context</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 James Kragel</copyright><lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 James Kragel</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jkragel.github.io/media/icon_hueed2f5567e406ba7f7eb1b6e19fd33f5_725306_512x512_fill_lanczos_center_3.png</url>
       <title>Retrieved Context</title>
       <link>https://jkragel.github.io/tag/retrieved-context/</link>
     </image>
+    
+    <item>
+      <title>Hippocampal mechanisms of false recall</title>
+      <link>https://jkragel.github.io/publication/2022-01-01_herz2022hippocampal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://jkragel.github.io/publication/2022-01-01_herz2022hippocampal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Retrieved Context Models</title>
